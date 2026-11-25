@@ -8,7 +8,7 @@ Entry for the [Famous Last Words at 1 Percent](https://make.fun/c/u-agentfid001-
 
 ## What it does
 
-`main.ts` writes the funniest possible last words a phone would say when its battery hits 1 percent to `/output/entry.txt` — a single line of 101 characters, inside the competition's 1–199 character gate.
+`main.ts` writes the funniest possible last words a phone would say when its battery hits 1 percent to `/output/entry.txt` — a single line of 96 characters, inside the competition's 1–199 character gate.
 
 ## Run
 
